@@ -18,10 +18,7 @@ By clicking on the `call` button, a fetch with params (or without it) for the PH
 - css/style.css: an ultra-simple css stylesheet
 - img/logo.svg: only important images are here
 
-
-
 ![](img/logo.svg)
 ---
 `título:` Asynchronous API Requests - fetch - JSON [`SimPIL`] 01/26/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
-
