@@ -23,12 +23,11 @@ function makeCall() {
 }
 
 
-
+// note the recursive jic included here
 function runObject(object) {
 
     let content = '';
     for (var key in object) {
-        // recursive jic
         if (typeof object[key] === 'object') {
             content += runObject(object[key]);
         } else {
