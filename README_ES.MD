@@ -22,5 +22,5 @@ Al hacer clic en el botón `call`, se realizará una solicitud fetch con paráme
 ![](img/logo.svg)
 
 ---
-`título:` Asynchronous API Requests - fetch - JSON [`SimPIL`] 01/26/24\
+`título:` Asynchronous API Requests - fetch - JSON [`SimPIL`] 26/01/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
