@@ -8,8 +8,8 @@ function makeCall() {
     };
 
     const options = {
-        method: 'POST',
-        body: JSON.stringify(params)/* ,
+        method: 'GET' /*,
+        body: JSON.stringify(params),
         headers: {
             'Content-type': 'application/json; charset=UTF-8'
         } */

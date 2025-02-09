@@ -6,11 +6,14 @@
  */
 
 // retreive params (they come as JSON)
-$json_data = file_get_contents("php://input");
-$params = json_decode($json_data, true);
+//$json_data = file_get_contents("php://input");
+//$params = json_decode($json_data, true);
 
 // your code here
-
+$params[0]["titulo"] = 'test0';
+$params[0]["texto"] = 'test0';
+$params[1]["titulo"] = 'test1';
+$params[1]["texto"] = 'test1';
 
 // your response
 $response = $params;
